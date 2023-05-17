@@ -5,10 +5,11 @@
 <div style="display: flex; flex-direction: row;">
   <img align ="left" width="40%" style= padding-bottom: "20px"  src="https://github-readme-streak-stats.herokuapp.com?user=Rezaeskandar&theme=tokyonight&hide_border=true" />
  <img class="img"  align ="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=Rezaeskandar&show_icons=true&theme=radical" />
-  <br/> <br/> <br/> <br/>
-   <img class="img"  align ="center" width = "32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaeskandar&theme=radical&layout=compact" />
-  </div>
+
   
+  </div>
+    <br/> <br/> 
+   <img class="img"  align ="center" width = "32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaeskandar&theme=radical&layout=compact" />
 
 _______________________________________________________________________________________________________________________________________________________
 
@@ -23,7 +24,7 @@ ________________________________________________________________________________
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- <br/> <br/> <br/> 
+ <br/> <br/> <br/> <br/> <br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
