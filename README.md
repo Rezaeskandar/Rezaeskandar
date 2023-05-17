@@ -8,5 +8,5 @@
  
 </div>
 <div style="display: flex; flex-direction: row;">
- <img align ="left" width="40%"  src="https://github-readme-streak-stats.herokuapp.com?user=Rezaeskandar&theme=tokyonight&hide_border=true" />
+ <img align ="left" width="30%"  src="https://github-readme-streak-stats.herokuapp.com?user=Rezaeskandar&theme=tokyonight&hide_border=true" />
  </div>
