@@ -5,5 +5,5 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img"  align ="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=Rezaeskandar&show_icons=true&theme=radical" />
  <img class="img"  align ="left" width = "32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaeskandar&theme=radical&layout=compact" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=tokyonight&hide_border=true" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
