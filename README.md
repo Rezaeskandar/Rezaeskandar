@@ -1,4 +1,4 @@
-### Hi there, I'm Reza👋
+### Hi there, I'm Reza👋, <h6><p> a full-stack .NET developer currently enrolled in Chas Academy. I am actively seeking an internship opportunity. If you are interested or know someone who might be, please feel free to contact me.</p></h6>
 ![animation](https://github.com/Rezaeskandar/Rezaeskandar/assets/113901667/0045a370-f4f6-4ad1-9c59-059d9ad2ed83)
 
 <br/><br/>
@@ -24,7 +24,7 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-eskandari-5a4715202/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21915926/reza) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com])
 _______________________________________________________________________________________________________________________________________________________
 
 ### 💻 Tech Stack:
