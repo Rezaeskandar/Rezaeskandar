@@ -5,5 +5,8 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img"  align ="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=Rezaeskandar&show_icons=true&theme=radical" />
  <img class="img"  align ="left" width = "32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaeskandar&theme=radical&layout=compact" />
-  <img align ="left" width="40%"  src="https://github-readme-streak-stats.herokuapp.com?user=Rezaeskandar&theme=tokyonight&hide_border=true" />
+ 
 </div>
+<div style="display: flex; flex-direction: row;">
+ <img align ="left" width="40%"  src="https://github-readme-streak-stats.herokuapp.com?user=Rezaeskandar&theme=tokyonight&hide_border=true" />
+ </div>
