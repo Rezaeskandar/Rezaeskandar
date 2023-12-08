@@ -6,7 +6,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
 
- ### Hi there, I'm Reza👋, <h6><p> a full-stack .NET developer currently enrolled in Chas Academy. I am actively seeking an internship opportunity. If you are interested or know someone who might be, please feel free to contact me.<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></p></h6> 
+ ### Hi there, I'm Reza👋, <h6><p> a full-stack .NET developer currently enrolled in Chas Academy.<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></p></h6> 
 
 ![animation](https://github.com/Rezaeskandar/Rezaeskandar/assets/113901667/0045a370-f4f6-4ad1-9c59-059d9ad2ed83)
 
